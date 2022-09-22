@@ -1,0 +1,1 @@
+i have made clone using simple HTML,CSS and javascript..it was my first project done by me hope you will like it.
